@@ -2,10 +2,10 @@
 
 I am a Machine Learning Engineer
 
-- 🔭 I’m currently working on a capstone project on Build and sell self-sufficient data mining and analytics tools
+- 🔭 I’m currently working on a capstone project on Build and sell self-sufficient data mining and analytics tools.
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and WEB 3.
-- 📫 I love reading tech news, listening to music and coding
-- ⚡ Check out my [Blogs](https://medium.com/@degagawolde/)
+- 📫 I love reading tech news, listening to music and coding.
+- ⚡ Check out my [Blogs](https://medium.com/@degagawolde/).
 
 <!-- ## GitHub Stats -->
 
