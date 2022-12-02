@@ -10,8 +10,6 @@ A machine learning engineer with two years’ worth of relevant work experience 
 ## 📣 You can reach me at
 
 <a href="https://www.linkedin.com/in/degagawolde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/irraaangorree"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@degagawolde" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
-  
-<br />
 
 ## My top open source projects
 <p align="left">
@@ -33,7 +31,7 @@ A machine learning engineer with two years’ worth of relevant work experience 
   </a>
 
  
-![activity-graph](https://activity-graph.herokuapp.com/graph?username=degagawolde&theme=minimal) 
+<!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=degagawolde&theme=minimal)  -->
 
  
 ![another-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degagawolde&theme=2077&include_all_commits=true&count_private=true) 
