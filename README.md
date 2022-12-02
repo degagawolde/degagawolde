@@ -18,7 +18,7 @@ A machine learning engineer with two years’ worth of relevant work experience 
   <a href="https://github.com/degagawolde/in-context-learning"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=in-context-learning&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
   <a href="https://github.com/degagawolde/creative-optimisation-cv"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=creative-optimisation-cv&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
   <a href="https://github.com/degagawolde/pharmaceutical-sales-prediction"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=pharmaceutical-sales-prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
-  <a href="https://github.com/degagawolde/kafka-airflow-spark-pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=kafka-airflow-spark-pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/degagawolde/kafka-airflow-spark-pipeline"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=kafka-airflow-spark-pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p>
 
 <p align="left">
