@@ -13,7 +13,7 @@ A machine learning engineer with two years’ worth of relevant work experience 
 
 ## My top open source projects
 <p align="left">
-  <a href="{https://github.com/degagawolde/DeepLearningBasedTBDiagnosis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=DeepLearningBasedTBDiagnosis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/degagawolde/DeepLearningBasedTBDiagnosis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=DeepLearningBasedTBDiagnosis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
   <a href="https://github.com/degagawolde/twitter-data-analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=twitter-data-analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
   <a href="https://github.com/degagawolde/in-context-learning"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=in-context-learning&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
   <a href="https://github.com/degagawolde/creative-optimisation-cv"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=creative-optimisation-cv&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  
