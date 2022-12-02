@@ -13,7 +13,7 @@ A machine learning engineer with two years’ worth of relevant work experience 
 ![Stream count](https://github-readme-streak-stats.herokuapp.com/?user=degagawolde&theme=black-ice&hide_border=true&stroke=0000&background=060B0D)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degagawolde&layout=compact&theme=algolia) -->
 
-<!--
+
 ## GitHub Stats
 
 <p align="left">
@@ -48,7 +48,7 @@ A machine learning engineer with two years’ worth of relevant work experience 
 ![GitHub-Actions][github-action-icon] ![docker][docker-icon]
 
 ![ethereum][ethereum-icon]
--->
+
 #### 📣 You can reach me at
 
 <a href="https://www.linkedin.com/in/degagawolde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/irraaangorree"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@degagawolde" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
