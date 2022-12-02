@@ -6,12 +6,16 @@ A machine learning engineer with two years’ worth of relevant work experience 
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and WEB 3.
 - 📫 I love reading tech news, listening to music and coding.
 - ⚡ Check out my [Blogs](https://medium.com/@degagawolde/).
+- 
+## My top open source projects
+<p align="left">
+  <a href="{https://github.com/degagawolde/DeepLearningBasedTBDiagnosis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=DeepLearningBasedTBDiagnosis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+  <a href="https://github.com/degagawolde/twitter-data-analysis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=twitter-data-analysis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/degagawolde/in-context-learning"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=in-context-learning&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/degagawolde/User-Analytics-Telecommunication-Industry"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=User-Analytics-Telecommunication-Industry&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/degagawolde/pharmaceutical-sales-prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=pharmaceutical-sales-prediction&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>  <a href="https://github.com/degagawolde/kafka-airflow-spark-pipeline"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=kafka-airflow-spark-pipeline&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
+</p>
 
-<!-- ## GitHub Stats -->
-
-<!-- ![Henok's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=degagawolde&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=060B0D")
-![Stream count](https://github-readme-streak-stats.herokuapp.com/?user=degagawolde&theme=black-ice&hide_border=true&stroke=0000&background=060B0D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degagawolde&layout=compact&theme=algolia) -->
+<p align="left">
+  <a href="https://github.com/degagawolde?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo&bg_color=060B0D"/></a>
+</p>
 
 
 ## GitHub Stats
