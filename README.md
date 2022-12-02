@@ -6,7 +6,13 @@ A machine learning engineer with two years’ worth of relevant work experience 
 - 🌱 I’m learning ML engineering, MLOps, Data Engineering, and WEB 3.
 - 📫 I love reading tech news, listening to music and coding.
 - ⚡ Check out my [Blogs](https://medium.com/@degagawolde/).
-- 
+
+## 📣 You can reach me at
+
+<a href="https://www.linkedin.com/in/degagawolde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/irraaangorree"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@degagawolde" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
+  
+<br />
+
 ## My top open source projects
 <p align="left">
   <a href="{https://github.com/degagawolde/DeepLearningBasedTBDiagnosis"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=degagawolde&repo=DeepLearningBasedTBDiagnosis&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
