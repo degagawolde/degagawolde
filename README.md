@@ -4,9 +4,9 @@ A machine learning engineer with two years’ worth of relevant work experience 
 models for the healthcare industry. Working knowledge in end-to-end computer vision, natural language processing, <br> 
 and explainable AI projects using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, <br> 
 Containerization, and CI/CD tools. Proficient in data preparation, modeling, visual analytics, scalable deployment, <br> and maintenance
-- 🎓 &nbsp;I just completed three months intensive training in Machine Learning and Data Engineering at 10Academy.
+- 🎓 &nbsp;I recently finished three months of intensive machine learning and data engineering training at 10Academy.
 - 🔭 I’m currently working on a capstone project on Build and sell self-sufficient data mining and analytics tools.
-- 🌱 Currently learning Quantum machine learning
+- 🌱 Currently learning Quantum machine learning, Dagster, and PySpark
 - 📫 I love reading tech news, listening to music and coding.
 - ⚡ Check out my [Blogs](https://medium.com/@degagawolde/).
 
