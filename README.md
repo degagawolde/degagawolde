@@ -1,7 +1,7 @@
 # Hi 👋
 
-A machine learning engineer with two years’ worth of relevant work experience developing and using multiple ML models for the healthcare industry. Working knowledge in end-to-end computer vision, natural language processing, and explainable AI projects using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools. Proficient in data preparation, modeling, visual analytics, scalable deployment, and maintenance
-- 🎓 &nbsp;I just completed three months of intensive training in Machine Learning Engineering and Data Engineering at 10Academy.
+A machine learning engineer with two years’ worth of relevant work experience developing and using multiple ML <br> models for the healthcare industry. Working knowledge in end-to-end computer vision, natural language processing, and explainable AI projects using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools. Proficient in data preparation, modeling, visual analytics, scalable deployment, and maintenance
+- 🎓 &nbsp;I just completed three months intensive training in Machine Learning and Data Engineering at 10Academy.
 - 🔭 I’m currently working on a capstone project on Build and sell self-sufficient data mining and analytics tools.
 - 🌱 Currently learning Quantum machine learning
 - 📫 I love reading tech news, listening to music and coding.
