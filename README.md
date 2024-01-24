@@ -1,15 +1,9 @@
 # Hi 👋
 
-I am a machine engineer with two years’ worth of relevant work experience developing and using multiple ML <br> 
-models for the healthcare industry. Working knowledge in end-to-end computer vision, natural language processing, <br> 
-and explainable AI projects using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, <br> 
-Containerization, and CI/CD tools. Proficient in data preparation, modeling, visual analytics, scalable deployment, <br> and maintenance.
-- 🎓 &nbsp; I recently finished three months of intensive machine learning and data engineering training at 10Academy.
-- 🔭 I’m currently working on a capstone project on building self-sufficient data mining and analytics tools.
-- 🌱 Currently learning Quantum machine learning, Dagster, and PySpark
-- 📫 I love reading tech news, listening to music, and coding.
-- ⚡ Check out my [Blogs](https://medium.com/@degagawolde/).
-
+I am a machine engineer with three years’ worth of relevant work experience, working knowledge in end-to-end <be> 
+computer vision, natural language processing, and explainable AI projects using technologies like OpenCV, TensorFlow, <be> 
+Scikit-Learn, Flask, PySpark, Kafka, <br> Containerization, and CI/CD tools. Proficient in data preparation, modeling, <be> 
+visual analytics, scalable deployment,  and maintenance.
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 You can reach me at
