@@ -1,9 +1,9 @@
 # Hi 👋
 
-I am a machine engineer with three years’ worth of relevant work experience, working knowledge in end-to-end <be> 
-computer vision, natural language processing, and explainable AI projects using technologies like OpenCV, TensorFlow, <be> 
-Scikit-Learn, Flask, PySpark, Kafka, <br> Containerization, and CI/CD tools. Proficient in data preparation, modeling, <be> 
-visual analytics, scalable deployment,  and maintenance.
+I am a machine engineer with three years of experience with working knowledge in end-to-end <br> 
+computer vision, and natural language processing using technologies like OpenCV, TensorFlow, <br> 
+Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 You can reach me at
