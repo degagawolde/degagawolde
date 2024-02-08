@@ -4,7 +4,7 @@ I am a machine engineer with three years of experience with working knowledge in
 computer vision, and natural language processing using technologies like OpenCV, TensorFlow, <br> 
 Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&column=5&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📣 You can reach me at
 
