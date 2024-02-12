@@ -40,7 +40,7 @@ I am a machine engineer with three years of experience with working knowledge in
 
 ### Tools That I Use
 
-![linux][linux-icon] ![macos][https://cdn.iconscout.com/icon/free/png-256/free-macos-3-225413.png?f=webp]  ![vscode][vscode-icon] ![vim][vim-icon]
+![linux][linux-icon]  ![vscode][vscode-icon] ![vim][vim-icon]
 
 ![python][python-icon] ![javascript][javascript-icon] ![cpp][cpp-icon] ![solidity][solidity-icon] ![bootstrap][bootstrap-icon]
 
