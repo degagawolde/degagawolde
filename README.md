@@ -75,7 +75,7 @@ I am a machine engineer with three years of experience with working knowledge in
 [bootstrap-icon]: https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white
 [fast-api-icon]: https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi
 [flask-icon]: https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white
-[django-icon]: https://www.djangoproject.com/m/img/logos/django-logo-negative.png
+[django-icon]: https://www.djangoproject.com/m/img/logos/django-logo-negative.png?style=flat&logo=flask&logoColor=white
 [react-icon]: https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB
 [react-native-icon]: https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB
 [streamlit-icon]: https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=Streamlit;
