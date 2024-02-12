@@ -40,9 +40,9 @@ I am a machine engineer with three years of experience with working knowledge in
 
 ### Tools That I Use
 
-![linux][linux-icon] ![pop_os][pop_os-icon] ![brave][brave-icon] ![vscode][vscode-icon] ![vim][vim-icon]
+![linux][linux-icon] ![macos][macos-icon]  ![vscode][vscode-icon] ![vim][vim-icon]
 
-![python][python-icon] ![javascript][javascript-icon] ![cpp][cpp-icon] ![solidity][solidity-icon] ![html][html-icon] ![css][css-icon] ![bootstrap][bootstrap-icon]
+![python][python-icon] ![javascript][javascript-icon] ![cpp][cpp-icon] ![solidity][solidity-icon] ![bootstrap][bootstrap-icon]
 
 ![pytorch][pytorch-icon] ![tensorflow][tensorflow-icon] ![pandas][pandas-icon] ![numpy][numpy-icon] ![plotly][plotly-icon] ![scipy][scipy-icon] ![sklearn][sklearn-icon] ![DVC][dvc-icon]
 
