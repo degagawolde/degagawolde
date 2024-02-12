@@ -48,7 +48,7 @@ I am a machine engineer with three years of experience with working knowledge in
 
 ![kafka][kafka-icon] ![airflow][airflow-icon] ![spark][spark-icon]
 
-![flask][flask-icon] ![fastapi][fast-api-icon] ![node][node-icon]
+![flask][flask-icon] ![fastapi][fast-api-icon] ![djanog][django-icon]
 
 ![mysql][mysql-icon] ![postgress][postgress-icon] ![mongodb][mongo-icon] ![redis][redis-icon] ![dbt][dbt-icon]
 
