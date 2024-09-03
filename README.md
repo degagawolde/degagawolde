@@ -1,6 +1,6 @@
 # Hi 👋
 
-I am a machine engineer with three years of experience with working knowledge in **end-to-end computer vision**, and **natural language processing** using technologies like:
+I am a machine engineer with three years of experience with working knowledge in </br> **end-to-end computer vision**, and **natural language processing** using technologies like:
 - OpenCV
 - TensorFlow
 - Scikit-Learn
