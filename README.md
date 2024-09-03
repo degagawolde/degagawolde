@@ -1,6 +1,14 @@
 # Hi 👋
 
-I am a machine engineer with three years of experience with working knowledge in end-to-end computer vision, and natural language processing using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools.
+I am a machine engineer with three years of experience with working knowledge in **end-to-end computer vision**, and **natural language processing** using technologies like:
+- OpenCV
+- TensorFlow
+- Scikit-Learn
+- Flask
+- PySpark
+- Kafka
+- Containerization
+- CI/CD tools
 
 ## 📣 You can reach me at
 
