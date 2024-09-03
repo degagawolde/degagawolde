@@ -2,8 +2,6 @@
 
 I am a machine engineer with three years of experience with working knowledge in end-to-end computer vision, and natural language processing using technologies like OpenCV, TensorFlow, Scikit-Learn, Flask, PySpark, Kafka, Containerization, and CI/CD tools.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix&column=9&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 📣 You can reach me at
 
 <a href="https://www.linkedin.com/in/degagawolde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;<a href="https://twitter.com/irraaangorree"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;<a href="https://medium.com/@degagawolde" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a> &nbsp;
