@@ -38,7 +38,7 @@ I am a machine engineer with three years of experience with working knowledge in
   </a>
 
  
-<!-- ![activity-graph](https://activity-graph.herokuapp.com/graph?username=degagawolde&theme=minimal)  -->
+![activity-graph](https://activity-graph.herokuapp.com/graph?username=degagawolde&theme=minimal)
 
  
 ![another-graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degagawolde&theme=2077&include_all_commits=true&count_private=true) 
